@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hi! Thanks For Using Me❤️ 
     Please send me any file url or file uploaded in Telegram and I will upload to Telegram as file or generate download link of that file.
     Use /help To Know All Functions Of Bot.
-    Support Group :- @InFoTelGroup and @CuratorSCrew """
+    Support Group :- @InFoTelGroup and @CuratorCrew """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Need To Pay Money Just Use Free Functions.If You Wanna Donate Then Just Message <a href='https://t.me/TheDarkW3b'Me</a> 🙂"
