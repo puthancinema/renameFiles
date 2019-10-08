@@ -7,12 +7,13 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [SpEcHiDe](https://telegram.dog/SpEcHIDe) For his [AnyDLbot](https://telegram.dog/anydlbot)
 
 ### Installation
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@UploaditRoBot](https://telegram.dog/UploaditRoBot) without having to run anything on your own
+**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDlBot) 
 
 #### The Easy Way
 
@@ -29,7 +30,7 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@CuratorCrew](https://telegram.dog/CuratorCrew)
 
 #### LICENSE
 - GPLv3
