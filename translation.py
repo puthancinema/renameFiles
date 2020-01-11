@@ -1,8 +1,8 @@
 class Translation(object):
     START_TEXT = """Hi! Thanks For Using Me❤️ 
-    Please send me any file url or file uploaded in Telegram and I will upload to Telegram as file or generate download link of that file.
-    Use /help To Know All Functions Of Bot.
-    Support Group :- @InFoTelGroup and @CuratorCrew """
+    Please send me any file Which You Want to Rename.
+    Use /help To Know How To Use This Bot.
+    Support Group :- @CuratorCrew """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Need To Pay Money Just Use Free Functions.If You Wanna Donate Then Just Message @TheDarkW3b 🙂"
@@ -31,18 +31,11 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/CuratorCrew'>Free</a>
 Expires on: {}"""
-    HELP_USER = """There are multiple things I can do:
-🛑 All Supported Video / File Formats, with custom file name and custom thumbnail support
-🛑 Upload as file from any HTTP link, with custom thumbnail support
-🛑 Convert To Streamable Video, any Telegram file
-🛑 Convert To Telegram Audio, the media sent as Telegram Documents
-🛑 ReName Telegram files, with custom thumbnail support
-🛑 Generate Custom Thumbnail by sending two photos in a Media Album
-🛑 Trim large videos<, and Take Screenshots of Telegram media files
-🛑 Extract compressed Telegram media
-🛑 Get a Telegram sticker as a Telegram downloadable media
---------
-Send /me to know current plan details"""
+    HELP_USER = """ Send Me Any Telegram File ❤️
+    Reply To That File and add /rename and write the name while you Need.
+    
+    Example :- /rename TheDarkW3bBot.apk 
+    🔒Note:- don't forget To Add File Extension At Last (apk,mkv,avi etc)"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
@@ -62,7 +55,7 @@ Send /me to know current plan details"""
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to @InFoTelGroup"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to @CuratorCrew"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
