@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/uploaditrobot",
-  "website": "https://github.com/ownerofworld/Dlawwanyhe",
-  "repository": "https://github.com/ownerofworld/Dlawwanyhe",
+  "website": "https://github.com/TheDarkW3b/renameFiles",
+  "repository": "https://github.com/TheDarkW3b/renameFiles",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
