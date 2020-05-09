@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hi! Thanks For Using Me❤️ 
+    START_TEXT = """Hi! Thanks For Using Me 
     Please send me any file Which You Want to Rename.
     Use /help To Know How To Use This Bot.
     Support Group :- @CuratorCrew """
